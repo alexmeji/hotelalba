@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="A Components Mix Bootstarp 3 Admin Dashboard Template">
     <meta name="author" content="Westilian">
-    <title>Costa Verde Hotel</title>
+    <title>Hotel Alba</title>
     <link rel="stylesheet" href="css/font-awesome.css" type="text/css">
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="css/animate.css" type="text/css">
@@ -20,6 +20,14 @@
     <link rel="stylesheet" href="css/matmix-iconfont.css" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,500italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600" rel="stylesheet" type="text/css">
+    <style media="screen">
+        .tituloalba {
+            margin: 0;
+            margin-left: 40px;
+            padding: 0;
+            padding-top: 10px;
+        }
+    </style>
 </head>
 <body>
 <input type="hidden" id="idtipousuario" value="{{ Session::get('idtipousuario') }}">
@@ -27,7 +35,7 @@
 <!--Leftbar Start Here -->
 <div class="left-aside desktop-view">
     <div class="aside-branding">
-        
+        <h1 class="tituloalba">Hotel Alba</h1>
         <span class="aside-pin waves-effect"><i class="fa fa-thumb-tack"></i></span>
         <span class="aside-close waves-effect"><i class="fa fa-times"></i></span>
     </div>

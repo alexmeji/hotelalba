@@ -27,7 +27,7 @@
 
 		.datos-empresa{
 			width: 250px;
-			height: 120px;			
+			height: 120px;
 			display: inline-block;
 			right: 0;
 			position: absolute;
@@ -47,12 +47,12 @@
 
 		#tabla-datos > tbody > tr > td {
 			text-align: center;
-		}		
+		}
 
 	</style>
 	<body>
 		<div class="logo">
-			<img src="/var/www/html/hotel/public/images/logocostaverde.png" alt="">
+			<h1>Hotel Alba</h1>
 		</div>
 		<div class="datos-empresa">
 			<center>

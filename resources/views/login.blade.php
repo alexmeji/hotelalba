@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="A Components Mix Bootstarp 3 Admin Dashboard Template">
-<meta name="author" content="Westilian">
-<title>Costa Verde</title>
+<meta name="description" content="Sistema Reservaciones Hotel Alba">
+<meta name="author" content="Alex Mejicanos">
+<title>Hotel Alba</title>
 <link rel="stylesheet" href="css/font-awesome.css" type="text/css">
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
 <link rel="stylesheet" href="css/animate.css" type="text/css">
@@ -25,7 +25,7 @@
 <body class="login-page">
     <div class="page-container">
         <div class="login-branding">
-            
+            <h1>Hotel Alba</h1>
         </div>
         <div class="login-container">
             <form class="form-signin" id="form-login">
